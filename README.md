@@ -1,7 +1,7 @@
 # Hi there, I'm Badr Eddine Toubani! 👋
 
 ## 🌟 About Me
-I am a passionate Software Engineer from Morocco 🇲🇦 with a strong focus on building efficient, scalable, and innovative solutions. I thrive in dynamic environments where I can solve complex problems, contribute to impactful projects, and continually enhance my skills.
+I am a passionate Software Engineer with a strong focus on building efficient, scalable, and innovative solutions. I thrive in dynamic environments where I can solve complex problems, contribute to impactful projects, and continually enhance my skills.
 
 ---
 
